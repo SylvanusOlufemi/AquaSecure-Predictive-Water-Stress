@@ -45,15 +45,10 @@ The Adaptive Neuro-Fuzzy Inference System (ANFIS) model has several advantages a
 •	While ANFIS performs well with moderate-sized datasets, it may struggle with very large datasets compared to other algorithms like Random Forests or Gradient Boosting Machines, which are designed to handle large volumes of data efficiently.
 
 # Comparison with Other Algorithms
-•	Linear Regression:
-•	Simpler and faster but may not capture the nonlinear relationships present in water stress data.
-•	Decision Trees and Random Forests:
-•	Good for handling large datasets and capturing nonlinearities but less interpretable than ANFIS.
-•	Support Vector Machines (SVM):
-•	Effective for classification tasks, but the choice of kernel can affect performance, and they can be less interpretable.
-•	Deep Learning (e.g., Neural Networks):
-•	Powerful for capturing complex patterns in large datasets but often seen as a black box, which can be a drawback for interpretability.
+•	Linear Regression: Simpler and faster but may not capture the nonlinear relationships present in water stress data.
+•	Decision Trees and Random Forests: Good for handling large datasets and capturing nonlinearities but less interpretable than ANFIS.
+•	Support Vector Machines (SVM): Effective for classification tasks, but the choice of kernel can affect performance, and they can be less interpretable.
+•	Deep Learning (e.g., Neural Networks): Powerful for capturing complex patterns in large datasets but often seen as a black box, which can be a drawback for interpretability.
 
 # Conclusion
 ANFIS is particularly well-suited for applications where interpretability and handling of uncertainty are crucial. However, for large-scale datasets or when computational efficiency is a priority, other machine learning algorithms may be more appropriate. The choice of model ultimately depends on the specific requirements of the project at hand.
-
