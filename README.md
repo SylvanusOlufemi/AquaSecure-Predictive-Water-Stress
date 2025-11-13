@@ -135,3 +135,7 @@ Call<PredictionResponse> getWaterStressPrediction();
 •	The app sends this data to the Flask API, receives a prediction, and displays it to the user.
 # Conclusion
 Integrating the Flask API for real-time water stress forecasting into existing systems is straightforward with proper API documentation and understanding of HTTP requests. This allows for a seamless user experience, providing valuable insights into water stress conditions.
+
+---
+Sylvanus Olufemi Orodiran [https://www.linkedin.com/in/sylvanus-olufemi-orodiran]
+*Active Member: Nigeria Computer Society (NCS ID: 18077)*
