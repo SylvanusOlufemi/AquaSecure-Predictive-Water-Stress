@@ -1,4 +1,4 @@
-💧 AquaSecure Nigeria: Predictive Water-Stress Mapping
+# 💧 AquaSecure Nigeria: Predictive Water-Stress Mapping
 
 <img width="1344" height="768" alt="water for life nigeria" src="https://github.com/user-attachments/assets/f55a10d3-0ef5-43d6-af06-52c1cbb67f0a" />
 # AquaSecure-Predictive-Water-Stress
