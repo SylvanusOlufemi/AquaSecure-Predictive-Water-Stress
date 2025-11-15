@@ -88,7 +88,7 @@ Effective for classification tasks, but the choice of kernel can affect performa
 •	Deep Learning (e.g., Neural Networks): 
 Powerful for capturing complex patterns in large datasets but often seen as a black box, which can be a drawback for interpretability.
 
-# Conclusion
+# Note
 ANFIS is particularly well-suited for applications where interpretability and handling of uncertainty are crucial. However, for large-scale datasets or when computational efficiency is a priority, other machine learning algorithms may be more appropriate. The choice of model ultimately depends on the specific requirements of the project at hand.
 
 # FLASK API INTEGRATION
